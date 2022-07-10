@@ -79,6 +79,7 @@ button:hover{
     cursor: pointer;
     font-size: small;
 }
+
 .search{
     border-color: black;
     background-color: aliceblue;
@@ -93,6 +94,7 @@ button:hover{
     margin-top: 25px;
     border-radius: 5px;
 }
+
 .text{
     border-color: black;
     background-color: aliceblue;
