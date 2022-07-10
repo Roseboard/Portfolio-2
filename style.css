@@ -79,3 +79,15 @@ button:hover{
     cursor: pointer;
     font-size: small;
 }
+.search{
+    border-color: black;
+    background-color: aliceblue;
+    height: 20px;
+    width: 300px;
+    margin-top: 25px;
+    margin-left: 70px;
+}
+.searchicon{
+    height: 25px;
+    margin-top: 25px;
+}
