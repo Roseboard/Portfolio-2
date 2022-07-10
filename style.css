@@ -59,6 +59,8 @@ button:hover{
     padding: 5vh;
     width: 30vh;
     text-align: center;
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 30%;
 }
 .login h3{
     color: rgb(255, 89, 0);
